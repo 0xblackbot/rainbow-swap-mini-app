@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.514960bc.css",
-    "main.js": "./static/js/main.ee2c18c1.js",
+    "main.css": "./static/css/main.f9cef783.css",
+    "main.js": "./static/js/main.fccb572f.js",
+    "static/media/Basel-Grotesk-Medium.woff2": "./static/media/Basel-Grotesk-Medium.c336d9d80f8eeebb9d81.woff2",
+    "static/media/Basel-Grotesk-Book.woff2": "./static/media/Basel-Grotesk-Book.05e3110c247ecc8bb0a6.woff2",
     "index.html": "./index.html",
-    "main.514960bc.css.map": "./static/css/main.514960bc.css.map",
-    "main.ee2c18c1.js.map": "./static/js/main.ee2c18c1.js.map"
+    "main.f9cef783.css.map": "./static/css/main.f9cef783.css.map",
+    "main.fccb572f.js.map": "./static/js/main.fccb572f.js.map"
   },
   "entrypoints": [
-    "static/css/main.514960bc.css",
-    "static/js/main.ee2c18c1.js"
+    "static/css/main.f9cef783.css",
+    "static/js/main.fccb572f.js"
   ]
 }
